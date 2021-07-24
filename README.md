@@ -7,7 +7,7 @@
 Facebook-->https://web.facebook.com/mentesenot%20kibebew/
 
 
-Linkedin-->https://www.linkedin.com/in/mentesenot%20kibebew/
+Linkedin-->www.linkedin.com/in/mentesenot-kibebew
 
 Instagram-->https://www.instagram.com/mente_kb/
 
