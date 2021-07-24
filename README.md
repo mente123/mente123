@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on Web development and Data science as beginner.
 - 📫 These is my Social Addreses.
 
-Facebook-->https://web.facebook.com/mentesenot%20kibebew/
+Facebook-->https://bit.ly/3kNW9XN
 
 
-Linkedin-->www.linkedin.com/in/mentesenot-kibebew
+Linkedin-->https://bit.ly/3xYbh8O
 
 Instagram-->https://www.instagram.com/mente_kb/
 
