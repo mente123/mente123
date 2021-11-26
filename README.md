@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yared</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mentesenot Kibebew</h1>
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=A+soon-to-be+Software+Engineer+from+Ethiopia)](https://git.io/typing-svg)
     
     
 ## 🙋‍♂️ About Me
-
+- I am a computer Science Student at Adama Science and Technology University, Ethiopia.
 - 🔭 I’m currently learning software engineering at **[ALX](https://www.alxafrica.com)**
 
 - 🌱 I’m part of 100 days of Python challenge at  **[Udemy](https://www.udemy.com/)**
