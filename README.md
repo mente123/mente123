@@ -6,7 +6,7 @@
     
     
 ## 🙋‍♂️ About Me
-- I am a computer Science Student at Adama Science and Technology University, Ethiopia.
+- 🚀 I am a computer Science Student at **[Adama Science and Technology University, Ethiopia]**.
 - 🔭 I’m currently learning software engineering at **[ALX](https://www.alxafrica.com)**
 
 - 🌱 I’m part of 100 days of Python challenge at  **[Udemy](https://www.udemy.com/)**
@@ -24,6 +24,7 @@
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+    <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-web-development-coding-kiranshastry-gradient-kiranshastry.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
      <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
      <img src="https://img.icons8.com/color/48/000000/html.png"/>
