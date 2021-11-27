@@ -65,7 +65,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=yaredow">
+<a href="https://github.com/mente123/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mente123">
 </a>
 <a href="https://github.com/mente123?tab=followers"><img src="https://img.shields.io/github/followers/yaredow?label=Followers&style=social" alt="GitHub Badge"></a>
