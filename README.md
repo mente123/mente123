@@ -7,9 +7,9 @@ Python | Django | MERN | AI Enthusiast
     
 ## 🙋‍♂️ About Me
 - 🚀 I am a computer Science Student at **[Adama Science and Technology University, Ethiopia]**.
-- 🔭  software engineering at **[ALX](https://www.alxafrica.com)**
+- 🔭  software engineer at **[ALX](https://www.alxafrica.com)**
 
-- 🌱 I’ have finished 100 days of Python challenge at  **[Udemy](https://www.udemy.com/)**
+- 🌱 Python developer with 3+ years of experience**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
