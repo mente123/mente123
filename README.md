@@ -6,7 +6,7 @@ Python | Django | MERN | AI Enthusiast
     
     
 ## 🙋‍♂️ About Me
-- 🚀 Python Developer at **[OpenAI]**.
+- 🚀 Python Developer at OpenAI.
 - 🔭  software engineer at **[ALX](https://www.alxafrica.com)**
 
 - 🌱 Python developer with 3+ years of experience**
