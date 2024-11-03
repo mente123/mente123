@@ -18,7 +18,6 @@ Python | Data Analysis | AI Enthusiast
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://isocpp.org/" target="_blank">  <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>  </a>
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
