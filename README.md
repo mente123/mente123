@@ -2,20 +2,18 @@
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mentesenot Kibebew</h1>
     
-Python | Django | MERN | AI Enthusiast
+Python | Data Analysis | AI Enthusiast
     
     
 ## 🙋‍♂️ About Me
-- 🚀 Python Developer at OpenAI.
-- 🔭  software engineer at **[ALX](https://www.alxafrica.com)**
-
+- 🚀 Python Developer.
+  
 - 🌱 Python developer with 3+ years of experience**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **mkebebew28@gmail.com**
+- 📫 How to reach me **mkibebeww@gmail.com**
 
-- ⚡  **I love reading books**
 
 ## 🚀 Languages and Tools:
 
@@ -25,7 +23,6 @@ Python | Django | MERN | AI Enthusiast
      <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
      <img src="https://img.icons8.com/color/48/000000/html.png"/>
      <img src="https://img.icons8.com/color/48/000000/css.png"/>
     
