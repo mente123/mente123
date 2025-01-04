@@ -6,13 +6,13 @@ Python | Data Analysis | AI Enthusiast
     
     
 ## 🙋‍♂️ About Me
-- 🚀 Python Developer.
+- 🚀 Data Analyst.
   
 - 🌱 Python developer with 3+ years of experience**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **mkibebeww@gmail.com**
+- 📫 How to reach me **mentesnotkibebeww@gmail.com**
 
 
 ## 🚀 Languages and Tools:
